@@ -17,9 +17,33 @@ So, I took this opportunity to switch my personal computer environment from my p
 
 ## Learning Progress Plan
 
-1. From Boot to Running: System Architecture Overview
+### 1. From Boot to Running: System Architecture Overview
 
+### 2. After Boot: Filesystem and Directory Structure
 
+### 3. Processes and Process Management
+
+### 4. Interrupts and Exceptions
+
+### 5. Scheduling
+
+### 6. Memory Management
+
+### 7. System Time
+
+### 8. Storage and I/O
+
+### 9. Networking
+
+### 10. IPC (Inter-Process Communication)
+
+### 11. Synchronization and Asynchronization
+
+### 12. Security and Protection
+
+### 13. Summary
+
+## Bonus: Reading the Linux Kernel Source Code
 
 
 ## Contributing

@@ -19,7 +19,31 @@
 ## 學習進度規劃
 ### 1. 從開機到運行 系統架構概覽
 
+### 2. 開機後 檔案系統與目錄結構
 
+### 3. 運行程序的 Process 
+
+### 4. Interrupts and Exceptions
+
+### 5. 系統調度 Scheduling
+
+### 6. 記憶體管理 Memory
+
+### 7. 系統時間 Time 
+
+### 8. 儲存 與 I/O 
+
+### 9. 網路通訊 Networking
+
+### 10. IPC 進程間通訊
+
+### 11. 同步與異步 Synchronization and Asynchronization
+
+### 12. 安全性與保護 Security and Protection
+
+### 13. 總結
+
+## 延伸. 閱讀 Linux Kernel 原始碼
 
 ## 貢獻
 
